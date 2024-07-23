@@ -1,0 +1,47 @@
+.app-container {
+    padding: 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .table-title {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 2rem;
+    color: #333;
+  }
+  
+  .table-wrapper {
+    margin-bottom: 40px;
+  }
+  
+  .mantine-table {
+    border-collapse: collapse;
+    width: 100%;
+    margin: 20px 0;
+  }
+  
+  .mantine-table th, .mantine-table td {
+    border: 1px solid #ddd;
+    padding: 12px;
+    text-align: left;
+  }
+  
+  .mantine-table th {
+    background-color: #f4f4f4;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .mantine-table tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+  
+  .mantine-table tr:hover {
+    background-color: #f1f1f1;
+  }
+  
+  .mantine-table td {
+    color: #666;
+  }
+  
